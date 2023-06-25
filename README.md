@@ -1,5 +1,12 @@
-### Hi there 👋
+### Oi! Eu sou Henrique Guilherme de Jesus Hernandes
 
+- 🌱 Eu estou atualmente cursnado o curso de Análise e Desenvolvimento de Sistema na Fatec(Faculdade de Tecnologia)
+<a href="https://github.com/HenriqueDeJesus/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueDeJesus&show_icons=true&theme=shadow_red" />
+</a>
+<!--<a href="https://github.com/HenriqueDeJesus/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueDeJesus&layout=compact&theme=shadow_red&langs_count=8&card_width=320" />
+</a>--><!--Voce tem que subir algum arquivo para mostrar as linguagens utilizada por você-->
 <!--
 **HenriqueDeJesus/HenriqueDeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
