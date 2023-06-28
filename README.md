@@ -55,7 +55,8 @@
   src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
-![snake gif](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
 
 
 
