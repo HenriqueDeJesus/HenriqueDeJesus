@@ -56,7 +56,7 @@
 </div>
 
 
-![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)-->
 
 
 
