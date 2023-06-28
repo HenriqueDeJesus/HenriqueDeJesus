@@ -54,9 +54,12 @@
 <img align="center" alt="HenriqueDeJesus"  
   src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
+<div>
+    ![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
-![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--Voce tem que subir algum arquivo para mostrar as linguagens utilizada por você-->
