@@ -9,12 +9,12 @@
 -->
 
 
-
+<!--
 <div>
 <a href="https://github.com/HenriqueDeJesus/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueDeJesus&show_icons=false&theme=shadow_red"></a>
 </div>
-
+-->
 ## Linguagens de Programação que eu uso na Fatec
 
 <div style="display: inline_block"><br>
