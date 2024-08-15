@@ -8,7 +8,6 @@
 <!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
 -->
 
-
 <!--
 <div>
 <a href="https://github.com/HenriqueDeJesus/github-readme-stats">
@@ -60,6 +59,8 @@
 
 
 
+
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--Voce tem que subir algum arquivo para mostrar as linguagens utilizada por você-->
