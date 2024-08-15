@@ -60,7 +60,7 @@
 
 
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--Voce tem que subir algum arquivo para mostrar as linguagens utilizada por você-->
