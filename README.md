@@ -54,11 +54,13 @@
   src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
+##Teste
+![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
 
-<!--![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)-->
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueDeJesus&repo=HenriqueDeJesus&theme=react)](https://github.com/HenriqueDeJesus/HenriqueDeJesus/)
 
-
-![snake gif](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
+<!--
+![snake gif](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)->
 
 
 <!--Voce tem que subir algum arquivo para mostrar as linguagens utilizada por você-->
