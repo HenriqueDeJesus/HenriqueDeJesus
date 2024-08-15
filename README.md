@@ -58,9 +58,7 @@
 <!--![Snake animation](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)-->
 
 
-
-
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HenriqueDeJesus/HenriqueDeJesus/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--Voce tem que subir algum arquivo para mostrar as linguagens utilizada por você-->
